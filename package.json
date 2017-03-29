@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/watMartin/martins-atom-spacegrey/issues"
   },
-  "homepage": "https://github.com/watMartin/martins-atom-spacegrey#readme"
+  "homepage": "https://github.com/watMartin/martins-atom-spacegrey#readme",
+  "theme": "syntax"
 }
